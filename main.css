@@ -962,7 +962,7 @@ body {
   0% {
     transform: scale(0);
   }
-}  
+}   
 @keyframes moving-grass {
   0%, 100% {  
     transform: rotate(-48deg) rotateY(40deg);
